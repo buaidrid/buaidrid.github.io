@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Resume | Joshua Allen</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+
+    <h1>Joshua Allen</h1>
+
+    <p class="tagline">
+        Operational Risk • Fraud & Controls • Data Analysis • Process Improvement
+    </p>
+
+</header>
+
+<nav>
+
+    <a href="index.html">Home</a>
+    <a href="resume.html">Resume</a>
+    <a href="index.html#projects">Projects</a>
+    <a href="research.html">Research</a>
+
+</nav>
+
+
+<!-- PROFESSIONAL SUMMARY -->
+
+<section class="hero">
+
+    <h2>Professional Profile</h2>
+
+    <p>
+        Banking and operations professional with experience in regulated financial
+        environments requiring strong accuracy, documentation discipline, policy
+        adherence, and risk awareness. Experienced in transaction review, operational
+        controls, financial analysis, discrepancy identification, and escalation of
+        potential fraud or policy concerns. Graduate training in business and data
+        science supports a broader focus on process analysis, operational risk,
+        organizational systems, and evidence-based decision making.
+    </p>
+
+</section>
+
+
+<!-- EXPERIENCE -->
+
+<section>
+
+    <h2>Professional Experience</h2>
+
+
+    <div class="project-card">
+
+        <h3>Associate Banker | JPMorgan Chase</h3>
+
+        <p><strong>Wooster, Ohio | October 2025 – Present</strong></p>
+
+        <ul class="clean-list">
+
+            <li>
+                Support high-volume branch operations including transaction processing,
+                account servicing, and documentation within a regulated banking environment.
+            </li>
+
+            <li>
+                Verify customer identity and transaction legitimacy while following
+                compliance requirements and internal controls designed to reduce fraud
+                and protect financial information.
+            </li>
+
+            <li>
+                Identify and escalate irregular activity, potential fraud indicators,
+                policy exceptions, and operational discrepancies.
+            </li>
+
+            <li>
+                Perform daily balancing, reconciliation, and transaction verification
+                procedures to support operational accuracy and control integrity.
+            </li>
+
+            <li>
+                Maintain accurate documentation while handling confidential financial
+                information in accordance with organizational and regulatory requirements.
+            </li>
+
+        </ul>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <h3>Personal Banker II | Fifth Third Bank</h3>
+
+        <p><strong>Akron, Ohio | February 2019 – October 2025</strong></p>
+
+        <ul class="clean-list">
+
+            <li>
+                Evaluated financial statements, repayment capacity, and collateral
+                strength to support credit decisions and assess risk exposure.
+            </li>
+
+            <li>
+                Monitored client portfolios for delinquency trends and early risk
+                indicators, escalating potential problem credits when appropriate.
+            </li>
+
+            <li>
+                Prepared credit review documentation and client assessment packages
+                aligned with policy and risk guidelines.
+            </li>
+
+            <li>
+                Conducted reconciliations and performance reviews across financial
+                products to improve accuracy and risk awareness.
+            </li>
+
+            <li>
+                Collaborated with branch and regional leadership on reporting,
+                workflow, and credit decision processes.
+            </li>
+
+            <li>
+                Trained and mentored staff on compliance procedures, risk awareness,
+                and portfolio management practices.
+            </li>
+
+        </ul>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <h3>Logistics / Operations Support | Goodyear via InnoSource</h3>
+
+        <p><strong>Akron, Ohio | November 2014 – February 2016</strong></p>
+
+        <ul class="clean-list">
+
+            <li>
+                Coordinated logistics activities in a high-volume manufacturing
+                environment to support operational efficiency and workflow continuity.
+            </li>
+
+            <li>
+                Supported documentation, scheduling, tracking, and coordination
+                functions across multiple operational areas.
+            </li>
+
+        </ul>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <h3>Department Supervisor | Walmart</h3>
+
+        <p><strong>Medina, Ohio | June 2005 – April 2011</strong></p>
+
+        <ul class="clean-list">
+
+            <li>
+                Managed daily department operations including staffing, inventory,
+                merchandising, and employee development.
+            </li>
+
+            <li>
+                Improved department performance through staff training, operational
+                adjustments, and process improvements.
+            </li>
+
+        </ul>
+
+    </div>
+
+</section>
+
+
+<!-- EDUCATION -->
+
+<section>
+
+    <h2>Education</h2>
+
+    <div class="principle-grid">
+
+        <div class="principle-card">
+
+            <h3>Master of Science</h3>
+
+            <p>
+                <strong>Data Science</strong><br>
+                University of Phoenix
+            </p>
+
+        </div>
+
+
+        <div class="principle-card">
+
+            <h3>Master of Business Administration</h3>
+
+            <p>
+                <strong>MBA</strong><br>
+                University of Phoenix
+            </p>
+
+        </div>
+
+
+        <div class="principle-card">
+
+            <h3>Bachelor of Arts</h3>
+
+            <p>
+                <strong>Psychology</strong><br>
+                University of Akron
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- PROFESSIONAL CAPABILITIES -->
+
+<section>
+
+    <h2>Professional Capabilities</h2>
+
+    <div class="principle-grid">
+
+        <div class="principle-card">
+
+            <h3>Risk & Controls</h3>
+
+            <p>
+                Operational controls • Risk escalation • Process integrity •
+                Exception identification • Regulatory documentation •
+                Reconciliation • Audit readiness
+            </p>
+
+        </div>
+
+
+        <div class="principle-card">
+
+            <h3>Fraud & Compliance</h3>
+
+            <p>
+                Fraud awareness • Transaction review • Customer verification •
+                Documentation accuracy • Policy adherence • Discrepancy identification •
+                Confidential data handling
+            </p>
+
+        </div>
+
+
+        <div class="principle-card">
+
+            <h3>Financial & Business Analysis</h3>
+
+            <p>
+                Financial statement evaluation • Credit risk • Portfolio monitoring •
+                Corporate finance • Operational reporting • Process improvement
+            </p>
+
+        </div>
+
+
+        <div class="principle-card">
+
+            <h3>Data & Analytical Tools</h3>
+
+            <p>
+                SQL • Python • Excel • Tableau • Power BI • R
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- RESEARCH -->
+
+<section>
+
+    <h2>Independent Research</h2>
+
+    <div class="project-card">
+
+        <h3>Control Effectiveness Under Cognitive Variability</h3>
+
+        <p>
+            Independent research examining how human cognitive variability can affect
+            operational control reliability and how controls can be designed to remain
+            effective under realistic working conditions.
+        </p>
+
+        <a href="control-effectiveness.html" class="project-button">
+            View Research
+        </a>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <h3>Composite Load Regulation Model</h3>
+
+        <p>
+            Conceptual research examining cognitive regulatory demand, ambiguity,
+            interpretation, and decision making under increasing cognitive load.
+        </p>
+
+        <a href="clrm.html" class="project-button">
+            View CLRM
+        </a>
+
+    </div>
+
+</section>
+
+
+<!-- CONTACT -->
+
+<section>
+
+    <h2>Contact</h2>
+
+    <p>
+        <strong>Email:</strong>
+        <a href="mailto:joshuajallen2256@gmail.com">
+            joshuajallen2256@gmail.com
+        </a>
+    </p>
+
+    <p>
+        <strong>LinkedIn:</strong>
+        <a href="https://www.linkedin.com/in/joshua-allen-risk-compliance">
+            linkedin.com/in/joshua-allen-risk-compliance
+        </a>
+    </p>
+
+</section>
+
+
+<footer>
+
+    © 2026 Joshua Allen
+
+</footer>
+
+</body>
+
+</html>
